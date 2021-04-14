@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HAWeatherWorker", "HAWeatherWorker.csproj", "{9FDF8A52-5625-4218-BC9E-F410F9BA84A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FDF8A52-5625-4218-BC9E-F410F9BA84A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDF8A52-5625-4218-BC9E-F410F9BA84A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDF8A52-5625-4218-BC9E-F410F9BA84A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDF8A52-5625-4218-BC9E-F410F9BA84A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C04ED5-5D3D-4674-8C82-10968450980C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://lucasltt.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HAWeatherWorker.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
