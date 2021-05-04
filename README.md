@@ -1,4 +1,4 @@
-# Arduino Joystick Remote Control
+# MQTT Weather Worker Service
 .NET Core Worker that fetches storm data from STARNET/USP, calculates distance from home and send information to local network using MQTT
 
 ## Published Topics on MQTT
